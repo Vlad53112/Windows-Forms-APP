@@ -1,0 +1,115 @@
+C:\Users\User\OneDrive\Desktop\Colegiu\Programarea Vizuala\Tema 1\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu_individual.Contabil.resources
+C:\Users\User\OneDrive\Desktop\Colegiu\Programarea Vizuala\Tema 1\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu_individual.Form1.resources
+C:\Users\User\OneDrive\Desktop\Colegiu\Programarea Vizuala\Tema 1\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu_individual.Vizator.resources
+C:\Users\User\OneDrive\Desktop\Colegiu\Programarea Vizuala\Tema 1\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu individual.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\Colegiu\Programarea Vizuala\Tema 1\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu individual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\Colegiu\Programarea Vizuala\Tema 1\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu individual.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\Colegiu\Programarea Vizuala\Tema 1\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu individual.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\Colegiu\Programarea Vizuala\Tema 1\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu individual.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Colegiu\Programarea Vizuala\Tema 1\Studiu individual\Studiu individual\bin\Debug\net8.0-windows\Studiu individual.exe
+C:\Users\User\OneDrive\Desktop\Colegiu\Programarea Vizuala\Tema 1\Studiu individual\Studiu individual\bin\Debug\net8.0-windows\Studiu individual.deps.json
+C:\Users\User\OneDrive\Desktop\Colegiu\Programarea Vizuala\Tema 1\Studiu individual\Studiu individual\bin\Debug\net8.0-windows\Studiu individual.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\Colegiu\Programarea Vizuala\Tema 1\Studiu individual\Studiu individual\bin\Debug\net8.0-windows\Studiu individual.dll
+C:\Users\User\OneDrive\Desktop\Colegiu\Programarea Vizuala\Tema 1\Studiu individual\Studiu individual\bin\Debug\net8.0-windows\Studiu individual.pdb
+C:\Users\User\OneDrive\Desktop\Colegiu\Programarea Vizuala\Tema 1\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu individual.dll
+C:\Users\User\OneDrive\Desktop\Colegiu\Programarea Vizuala\Tema 1\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\refint\Studiu individual.dll
+C:\Users\User\OneDrive\Desktop\Colegiu\Programarea Vizuala\Tema 1\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu individual.pdb
+C:\Users\User\OneDrive\Desktop\Colegiu\Programarea Vizuala\Tema 1\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu individual.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\Colegiu\Programarea Vizuala\Tema 1\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\ref\Studiu individual.dll
+C:\Users\User\OneDrive\Desktop\Colegiu\Programarea Vizuala\Tema 1\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu_individual.AdugareMarfa.resources
+C:\Users\User\OneDrive\Desktop\Colegiu\Programarea Vizuala\Tema 1\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu_individual.Aprovizionator.resources
+C:\Users\User\OneDrive\Desktop\Colegiu\Programarea Vizuala\Studiu individual\Studiu individual\bin\Debug\net8.0-windows\Studiu individual.exe
+C:\Users\User\OneDrive\Desktop\Colegiu\Programarea Vizuala\Studiu individual\Studiu individual\bin\Debug\net8.0-windows\Studiu individual.deps.json
+C:\Users\User\OneDrive\Desktop\Colegiu\Programarea Vizuala\Studiu individual\Studiu individual\bin\Debug\net8.0-windows\Studiu individual.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\Colegiu\Programarea Vizuala\Studiu individual\Studiu individual\bin\Debug\net8.0-windows\Studiu individual.dll
+C:\Users\User\OneDrive\Desktop\Colegiu\Programarea Vizuala\Studiu individual\Studiu individual\bin\Debug\net8.0-windows\Studiu individual.pdb
+C:\Users\User\OneDrive\Desktop\Colegiu\Programarea Vizuala\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu_individual.AdugareMarfa.resources
+C:\Users\User\OneDrive\Desktop\Colegiu\Programarea Vizuala\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu_individual.Aprovizionator.resources
+C:\Users\User\OneDrive\Desktop\Colegiu\Programarea Vizuala\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu_individual.Contabil.resources
+C:\Users\User\OneDrive\Desktop\Colegiu\Programarea Vizuala\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu_individual.Form1.resources
+C:\Users\User\OneDrive\Desktop\Colegiu\Programarea Vizuala\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu_individual.Furnizor.resources
+C:\Users\User\OneDrive\Desktop\Colegiu\Programarea Vizuala\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu_individual.Produs.resources
+C:\Users\User\OneDrive\Desktop\Colegiu\Programarea Vizuala\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu_individual.Vizator.resources
+C:\Users\User\OneDrive\Desktop\Colegiu\Programarea Vizuala\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu individual.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\Colegiu\Programarea Vizuala\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu individual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\Colegiu\Programarea Vizuala\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu individual.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\Colegiu\Programarea Vizuala\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu individual.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\Colegiu\Programarea Vizuala\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu individual.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Colegiu\Programarea Vizuala\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu individual.dll
+C:\Users\User\OneDrive\Desktop\Colegiu\Programarea Vizuala\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\refint\Studiu individual.dll
+C:\Users\User\OneDrive\Desktop\Colegiu\Programarea Vizuala\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu individual.pdb
+C:\Users\User\OneDrive\Desktop\Colegiu\Programarea Vizuala\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu individual.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\Colegiu\Programarea Vizuala\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\ref\Studiu individual.dll
+C:\Users\Professional\Desktop\Colegiu\Programarea Vizuala\Studiu individual\Studiu individual\bin\Debug\net8.0-windows\Studiu individual.exe
+C:\Users\Professional\Desktop\Colegiu\Programarea Vizuala\Studiu individual\Studiu individual\bin\Debug\net8.0-windows\Studiu individual.deps.json
+C:\Users\Professional\Desktop\Colegiu\Programarea Vizuala\Studiu individual\Studiu individual\bin\Debug\net8.0-windows\Studiu individual.runtimeconfig.json
+C:\Users\Professional\Desktop\Colegiu\Programarea Vizuala\Studiu individual\Studiu individual\bin\Debug\net8.0-windows\Studiu individual.dll
+C:\Users\Professional\Desktop\Colegiu\Programarea Vizuala\Studiu individual\Studiu individual\bin\Debug\net8.0-windows\Studiu individual.pdb
+C:\Users\Professional\Desktop\Colegiu\Programarea Vizuala\Studiu individual\Studiu individual\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Professional\Desktop\Colegiu\Programarea Vizuala\Studiu individual\Studiu individual\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Professional\Desktop\Colegiu\Programarea Vizuala\Studiu individual\Studiu individual\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Professional\Desktop\Colegiu\Programarea Vizuala\Studiu individual\Studiu individual\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Professional\Desktop\Colegiu\Programarea Vizuala\Studiu individual\Studiu individual\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Professional\Desktop\Colegiu\Programarea Vizuala\Studiu individual\Studiu individual\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Professional\Desktop\Colegiu\Programarea Vizuala\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu individual.csproj.AssemblyReference.cache
+C:\Users\Professional\Desktop\Colegiu\Programarea Vizuala\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu_individual.AdugareMarfa.resources
+C:\Users\Professional\Desktop\Colegiu\Programarea Vizuala\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu_individual.Aprovizionator.resources
+C:\Users\Professional\Desktop\Colegiu\Programarea Vizuala\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu_individual.Contabil.resources
+C:\Users\Professional\Desktop\Colegiu\Programarea Vizuala\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu_individual.Form1.resources
+C:\Users\Professional\Desktop\Colegiu\Programarea Vizuala\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu_individual.Furnizor.resources
+C:\Users\Professional\Desktop\Colegiu\Programarea Vizuala\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu_individual.Produs.resources
+C:\Users\Professional\Desktop\Colegiu\Programarea Vizuala\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu_individual.Vizator.resources
+C:\Users\Professional\Desktop\Colegiu\Programarea Vizuala\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu individual.csproj.GenerateResource.cache
+C:\Users\Professional\Desktop\Colegiu\Programarea Vizuala\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu individual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\Desktop\Colegiu\Programarea Vizuala\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu individual.AssemblyInfoInputs.cache
+C:\Users\Professional\Desktop\Colegiu\Programarea Vizuala\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu individual.AssemblyInfo.cs
+C:\Users\Professional\Desktop\Colegiu\Programarea Vizuala\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu individual.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\Colegiu\Programarea Vizuala\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu i.FD1F83D4.Up2Date
+C:\Users\Professional\Desktop\Colegiu\Programarea Vizuala\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu individual.dll
+C:\Users\Professional\Desktop\Colegiu\Programarea Vizuala\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\refint\Studiu individual.dll
+C:\Users\Professional\Desktop\Colegiu\Programarea Vizuala\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu individual.pdb
+C:\Users\Professional\Desktop\Colegiu\Programarea Vizuala\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu individual.genruntimeconfig.cache
+C:\Users\Professional\Desktop\Colegiu\Programarea Vizuala\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\ref\Studiu individual.dll
+C:\Users\Professional\Desktop\Colegiu\Programarea Vizuala\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu_individual.Categorie.resources
+C:\Users\Professional\Desktop\Colegiu\Programarea Vizuala\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu_individual.Adresa.resources
+C:\Users\User\OneDrive\Desktop\Studiu individual (7)\Studiu individual\Studiu individual\bin\Debug\net8.0-windows\Studiu individual.exe
+C:\Users\User\OneDrive\Desktop\Studiu individual (7)\Studiu individual\Studiu individual\bin\Debug\net8.0-windows\Studiu individual.deps.json
+C:\Users\User\OneDrive\Desktop\Studiu individual (7)\Studiu individual\Studiu individual\bin\Debug\net8.0-windows\Studiu individual.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\Studiu individual (7)\Studiu individual\Studiu individual\bin\Debug\net8.0-windows\Studiu individual.dll
+C:\Users\User\OneDrive\Desktop\Studiu individual (7)\Studiu individual\Studiu individual\bin\Debug\net8.0-windows\Studiu individual.pdb
+C:\Users\User\OneDrive\Desktop\Studiu individual (7)\Studiu individual\Studiu individual\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\User\OneDrive\Desktop\Studiu individual (7)\Studiu individual\Studiu individual\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\User\OneDrive\Desktop\Studiu individual (7)\Studiu individual\Studiu individual\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\User\OneDrive\Desktop\Studiu individual (7)\Studiu individual\Studiu individual\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\User\OneDrive\Desktop\Studiu individual (7)\Studiu individual\Studiu individual\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\User\OneDrive\Desktop\Studiu individual (7)\Studiu individual\Studiu individual\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\User\OneDrive\Desktop\Studiu individual (7)\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu individual.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Studiu individual (7)\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu_individual.Adresa.resources
+C:\Users\User\OneDrive\Desktop\Studiu individual (7)\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu_individual.AdugareMarfa.resources
+C:\Users\User\OneDrive\Desktop\Studiu individual (7)\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu_individual.Aprovizionator.resources
+C:\Users\User\OneDrive\Desktop\Studiu individual (7)\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu_individual.Categorie.resources
+C:\Users\User\OneDrive\Desktop\Studiu individual (7)\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu_individual.Contabil.resources
+C:\Users\User\OneDrive\Desktop\Studiu individual (7)\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu_individual.Form1.resources
+C:\Users\User\OneDrive\Desktop\Studiu individual (7)\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu_individual.Furnizor.resources
+C:\Users\User\OneDrive\Desktop\Studiu individual (7)\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu_individual.Produs.resources
+C:\Users\User\OneDrive\Desktop\Studiu individual (7)\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu_individual.Vizator.resources
+C:\Users\User\OneDrive\Desktop\Studiu individual (7)\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu individual.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\Studiu individual (7)\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu individual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\Studiu individual (7)\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu individual.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\Studiu individual (7)\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu individual.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\Studiu individual (7)\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu individual.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Studiu individual (7)\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu individual.csproj.CopyComplete
+C:\Users\User\OneDrive\Desktop\Studiu individual (7)\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu individual.dll
+C:\Users\User\OneDrive\Desktop\Studiu individual (7)\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\refint\Studiu individual.dll
+C:\Users\User\OneDrive\Desktop\Studiu individual (7)\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu individual.pdb
+C:\Users\User\OneDrive\Desktop\Studiu individual (7)\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu individual.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\Studiu individual (7)\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\ref\Studiu individual.dll
+C:\Users\Professional\Desktop\Colegiu\Programarea Vizuala\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu_individual.Banca.resources
+C:\Users\Professional\Desktop\Colegiu\Programarea Vizuala\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu_individual.Filiala.resources
+C:\Users\Professional\Desktop\Colegiu\Programarea Vizuala\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu_individual.Administrator.resources
+C:\Users\Professional\Desktop\Colegiu\Programarea Vizuala\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu_individual.Cabinet_Personal.resources
+C:\Users\Professional\Desktop\Colegiu\Programarea Vizuala\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu_individual.Parola.resources
+C:\Users\Professional\Desktop\Colegiu\Programarea Vizuala\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu_individual.Vinzare.resources
+C:\Users\Professional\Desktop\Colegiu\Programarea Vizuala\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu_individual.BonusurPedepse.resources
+C:\Users\Professional\Desktop\Colegiu\Programarea Vizuala\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu_individual.Angajati.resources
+C:\Users\Professional\Desktop\Colegiu\Programarea Vizuala\Studiu individual\Studiu individual\obj\Debug\net8.0-windows\Studiu_individual.Functie.resources
